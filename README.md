@@ -1,2 +1,2 @@
 # your_username.github.io
-Griot Media C.V 
+Griot Media Portfolio
